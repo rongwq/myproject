@@ -1,0 +1,5 @@
+jdbcUrl = jdbc:mysql://172.18.7.64:3306/xk?autoReconnect=true&useUnicode=true&characterEncoding=UTF-8
+log.jdbcUrl = jdbc:mysql://172.18.7.64:3306/xklog?autoReconnect=true&useUnicode=true&characterEncoding=UTF-8
+user=root
+password=123456
+devMode = true
